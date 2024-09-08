@@ -1,1 +1,1 @@
-# oibsip_task1calculator
+# simplecalculator
